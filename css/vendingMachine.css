@@ -1,0 +1,8 @@
+/* CSS Document */
+
+#display, #productReturn, #changeReturn{
+	border: 1px solid #666;
+	width: 240px;
+	height: 20px;
+	text-align: right;
+}
